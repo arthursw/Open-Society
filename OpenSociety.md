@@ -5,7 +5,7 @@
 La société ouverte se base sur la philosophie open source. Elle est internationale, collaborative et évolutive. Les citoyens la conçoivent de manière collective ; chacun peut contribuer, par exemple en proposant des projets de société, des services, des biens matériels, ou encore des textes de lois.
 
 ## Mouvement
-La société ouverte existe déjà à travers la multitude de projets open-source qui va dans ce sens (les projets de makers, parfois globaux comme l’Open Source Ecology, les projets de civic tech, comme Open Democracy Now qui rassemble DemocracyOS, Etalab, Open Law, Open Source Politics et République Citoyenne, les projets de diffusion de la connaissance comme les MOOC, les projets d’écovillages et d’écoquartiers, certaines initiatives et expérimentations alternatives et ouvertes, certaines ONG, etc.).
+La société ouverte existe déjà à travers la multitude de projets open-source qui va dans ce sens (les projets de makers, parfois globaux comme l’[Open Source Ecology](https://www.ted.com/talks/marcin_jakubowski?language=fr#t-230250), les projets de civic tech, comme Open Democracy Now qui rassemble DemocracyOS, Etalab, Open Law, Open Source Politics et République Citoyenne, les projets de diffusion de la connaissance comme les [MOOC](https://fr.wikipedia.org/wiki/Formation_en_ligne_ouverte_%C3%A0_tous), les projets d’écovillages et d’écoquartiers, certaines initiatives et expérimentations alternatives et ouvertes, certaines ONG, etc.).
 
 Le projet de société ouverte consiste à rassembler toutes ces initiatives sous un même drapeau afin de mutualiser les besoins, compétences et solutions, d’éviter les redondance, de positionner chaque action dans un schéma général, et de définir des objectifs globaux.
 
@@ -34,10 +34,10 @@ Ainsi, les citoyens ont un pouvoir de décision sur le fonctionnement d’un ré
 De même, tout le monde peut accéder aux décisions concernant la gestion des banques ouvertes ou le fonctionnement des universités ouvertes.
 
 ## Réflexion collaborative
-Un des piliers de la société ouverte est la réflexion et la décision collaborative ; ceci nécessite des outils spécialisés. Il en existe déjà un petit nombre (Loomio, Democracy OS), et il est possible d’en concevoir de nouveaux.
+Un des piliers de la société ouverte est la réflexion et la décision collaborative ; ceci nécessite des outils spécialisés. Il en existe déjà un petit nombre ([Loomio](https://www.loomio.org/), [Democracy OS](http://democracyos.eu/)), et [il est possible d’en concevoir de nouveaux](https://medium.com/@arthur.sw/proposal-for-a-collaborative-reflection-platform-short-version-e23142d5b7a8#.s77a9cb9n).
 
 ## Mutualisation, collaboration et concurrence
-Il existe de nombreux projets doublons ou semblables, dans tous les domaines, à tous les niveaux, libres ou propriétaires (plus d’une vingtaine de constructeurs automobile dans le monde, des centaines de langages de programmation différents, etc.). Il est nécessaire de limiter et contrôler la redondance, et de mutualiser les solutions.
+Il existe de nombreux projets doublons ou semblables, dans tous les domaines, à tous les niveaux, libres ou propriétaires (plus d’une vingtaine de constructeurs automobile dans le monde, des [centaines de langages de programmation](http://helloworldcollection.de/) différents, etc.). Il est nécessaire de limiter et contrôler la redondance, et de mutualiser les solutions.
 
 Il est cependant nécessaire de cultiver une diversité et une richesse de production. 
 
